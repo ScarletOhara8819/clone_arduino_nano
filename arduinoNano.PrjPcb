@@ -108,10 +108,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JAPLOTOI
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for arduinoNano\Design Rule Check - arduinoNano.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
